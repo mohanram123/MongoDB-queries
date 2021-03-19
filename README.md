@@ -4,8 +4,8 @@
 ### MongoDB - Localhost
 
 1. POST : '/' - Insert documents
-2. GET: '/replace' - Remove duplicate dates 
-3. PUT: '/' - req.query.task is 'entry' or 'workdone' - update the task based on a given date
+2. GET: '/replace' - Remove duplicate dates (all duplicate dates for all users) 
+3. PUT: '/' - req.query.task - 'entry' or 'workdone' - update the task based on a given date - req.body: {entry or workdone, reportingDate, regNo}
 4. GET: '/attendance' - attendance for all users based on registration number
 
 
