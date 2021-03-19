@@ -1,0 +1,32 @@
+{
+	"name": "Mohan",
+	"college": "SSN",
+	"regNo": 1000,
+	"attendance": [
+		{
+			"reportingDate": "2021-03-18T08:44:31.879Z",
+			"entry": "Yes",
+			"workDone": "EFGH"
+		},
+		{
+			"reportingDate": "2021-03-16T08:44:31.879Z",
+			"entry": "Yes",
+			"workDone": "ABCD"
+		},
+		{
+			"reportingDate": "2021-03-16T08:44:31.879Z",
+			"entry": "Yes",
+			"workDone": "IJKL"
+		}
+	],
+		"_comment1":"Like I want to update 'entry' on 16th",
+		"_comment2":"Like I want to update 'workDone' on 18th",
+		"_comment3":"I want to remove duplicate entry for a reportingDate",
+		"_comment4":"Like I want to calculate how many days of attendance 'entry' field  were 'YES' and how many are 'NO' in a single query"
+}
+
+
+
+ 
+ 
+ 
