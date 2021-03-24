@@ -1,0 +1,8 @@
+{
+    "name":"Mohanram",
+    "places":["Paris","London","Tokyo"],
+    "favNumbers":[2,4,5],
+
+	"_comment":"mongoose-unique-array",
+	"_comment1":"wont work for adding requests via put"
+}

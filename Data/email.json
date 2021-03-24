@@ -1,0 +1,7 @@
+{
+    "name":"Mohanram",
+    "password":"12345",
+    "email":"mohan@gmail.com",
+
+    "comment":"mongoose-hidden - useful for hiding the confidential data from being displayed to the user"
+}

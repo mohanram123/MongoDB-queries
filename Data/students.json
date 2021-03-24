@@ -1,0 +1,9 @@
+{
+    "name":"Mohanram",
+    "college":"SSN",
+    "fav": 9223372036854775806,
+    "_comment":"mongoose-sequence - Auto increment is working and has a lot of use cases within this plugin",
+    "_comment01":"mongoose-delete - enables soft deletion of documents in MongoDB - works only for delete() method",
+    "_comment1":"mongoose-long - Provides Number Long support for Mongoose",
+    "comment2":"counter can be reset too!"
+}
